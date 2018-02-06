@@ -2,9 +2,9 @@
 #
 
 # Site settings
-title: "Sarah + Matt"
+title: "Pablo & Liza"
 description: |
-    Lawrence, Kansas
+    Nos Casamos!
 
     June 3, 2017
 owner: Matt Menzenski # or company name
@@ -60,3 +60,4 @@ social:
 markdown: kramdown
 #sass:
 #  style: compressed
+theme: menzenski/wedding-site
