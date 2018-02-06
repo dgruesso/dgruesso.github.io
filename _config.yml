@@ -6,18 +6,18 @@ title: "Pablo & Liza"
 description: |
     Nos Casamos!
 
-    June 3, 2017
-owner: Matt Menzenski # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
-email: matt.menzenski@gmail.com
+    Julio 20, 2018
+owner: Daniel Gruesso # or company name
+first_published: 2018 # if migrating another site, the year of your first publish
+email: youremail@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 google_analytics: UA-47395716-3
 
 social:
-  #twitter: https://twitter.com/menzenski
-  github: https://github.com/menzenski/wedding-site
+  #twitter: https://twitter.com
+  github: https://github.com/
   #linkedin-square: https://linkedin.com/in/<username>
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
