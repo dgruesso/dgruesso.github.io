@@ -11,7 +11,7 @@ owner: Daniel Gruesso # or company name
 first_published: 2018 # if migrating another site, the year of your first publish
 email: youremail@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "dgruesso.github.io" # the base hostname & protocol for your site
 
 google_analytics: UA-47395716-3
 
